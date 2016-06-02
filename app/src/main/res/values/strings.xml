@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SokuhouKun</string>
+    <string name="accessibility_description">For post to Slack</string>
+</resources>
